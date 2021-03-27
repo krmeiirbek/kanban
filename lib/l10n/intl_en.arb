@@ -1,0 +1,13 @@
+{
+  "title": "Kanban",
+  "on_hold": "On hold",
+  "in_progress": "In progress",
+  "needs_review": "Needs review",
+  "approved": "Approved",
+  "login_failed": "Login Failed",
+  "error_login": "Minimum is 4 characters",
+  "hint_login": "Enter your login",
+  "error_password": "Minimum is 8 characters",
+  "hint_password": "Enter your password",
+  "log_in": "Log in"
+}
